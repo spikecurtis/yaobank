@@ -1,0 +1,12 @@
+/accounts/519940/name Spike Curtis
+/accounts/519940/balance 2389.45
+/accounts/407221/name Simon Gideon
+/accounts/407221/balance 95780.11
+/accounts/387747/name Harry Norman Kynes
+/accounts/387747/balance 39082.11
+/accounts/436839/name George Ball
+/accounts/436839/balance 543.34
+/accounts/036273/name Sally Yates
+/accounts/036273/balance 3597.89
+/accounts/468009/name Laura Sargent
+/accounts/468009/balance 8854.39

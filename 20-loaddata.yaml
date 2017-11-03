@@ -1,0 +1,13 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: loaddata
+spec:
+  template:
+    metadata:
+      name: loaddata
+    spec:
+      containers:
+      - name: loaddata
+        image: spikecurtis/yaobank-loaddata
+      restartPolicy: Never
