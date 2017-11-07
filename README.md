@@ -11,6 +11,8 @@ Consists of 3 microservices:
 
 ![service graph](https://github.com/spikecurtis/yaobank/raw/master/doc/service-graph.png)
 
+*User icon By MCruz (WMF) (Own work) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons*
+
 The transaction and teller microservices are microservices that a bank teller would use to process deposits and withdrawals.  They don't feature in the policy demo directly, so have not been built yet.
 
 ## How to run
