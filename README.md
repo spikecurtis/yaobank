@@ -9,6 +9,7 @@ Consists of 3 microservices:
 1. **summary** - HTTP service that returns JSON account summaries.
 1. **customer** - Front-end web service that displays account summaries to users.
 
+![service graph](./docs/service-graph.svg)
 
 ## How to run
 
