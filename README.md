@@ -9,7 +9,7 @@ Consists of 3 microservices:
 1. **summary** - HTTP service that returns JSON account summaries.
 1. **customer** - Front-end web service that displays account summaries to users.
 
-![service graph](https://github.com/spikecurtis/yaobank/raw/master/doc/service-graph.svg)
+![service graph](https://github.com/spikecurtis/yaobank/raw/master/doc/service-graph.png)
 
 ## How to run
 
